@@ -3,9 +3,9 @@ Mobile application
 NutriScan is a comprehensive nutrition and health app designed to assist users in managing their dietary needs.
 
 Team Members:
-Behnaz Khalili
-Kawthar Mashkour
-Shadan Farahbakhshdarabi
+Behnaz Khalili,
+Kawthar Mashkour,
+Shadan Farahbakhshdarabi.
 
 Background: 
   NutriScan is a nutrition and health app for managing dietary needs. 
